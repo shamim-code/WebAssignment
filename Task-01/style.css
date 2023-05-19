@@ -1,0 +1,39 @@
+
+.container{
+    height: 300px;
+    width: 700px;
+    background-color: #70a1ff;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 5px;
+}
+
+.one{
+    margin: 0 auto ;
+    padding-top: 50px;
+}
+
+.two{
+    padding-left: 35px;
+}
+
+.one input{
+    outline: none;
+    width: 500px;
+}
+
+.two input{
+    outline: none;
+}
+
+#btn{
+    background-color: rgb(53, 190, 53);
+    border: 0.5px solid blue;
+    cursor: pointer;
+    height: 25px;
+    width: 80px;
+    font-weight: bold;
+    color: red;
+    border-radius: 5px;
+}
